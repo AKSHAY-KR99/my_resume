@@ -1,0 +1,12 @@
+img{
+    width: 46%;
+    height: 91%;
+    position: relative;
+    top: 4%;
+}
+.top{
+    background-color: rgb(4, 4, 77);
+}
+.title{
+    color: white;
+}
